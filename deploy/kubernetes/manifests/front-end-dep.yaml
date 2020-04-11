@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: front-end
-        image: quay.io/awsakkiace/front-end:1.0
+        image: quay.io/awsakkiace/front-end:master
         resources:
           limits:
             cpu: 300m
